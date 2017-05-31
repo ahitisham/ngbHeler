@@ -1,0 +1,45 @@
+.container ul {
+		list-style-type: none;
+	}
+	.container ul li{
+		float: left;
+		position: relative;
+		/* background-color: #456389; */
+		width: 100px;
+		height: 50px;
+		border: 1px solid white;
+		line-height: 50px;
+		text-align: center;
+		
+	}
+	.container ul li:hover{
+    background-color: orange;
+	}
+	.clear{
+		clear: both;
+	}
+	/*jxcvmbxcn*/
+	.clear{
+	clear: both;
+}
+	ul>li{
+		float: left;
+		list-style: none;
+		text-decoration: none;
+		padding-right: 10PX;
+	}
+	.main_menu{
+		margin-top: 89px;
+		background-color: rgb(247, 215, 171);
+	}
+	.main_home{
+		background-image: url(/assets/top-bgg.png);
+		text-align: center;
+    	min-height: 930px;
+	}
+	.header_info{
+		 color:rgb(247, 215, 171);
+	}
+	.header_nav{
+		background-color: rgb(247, 215, 171);
+	}
